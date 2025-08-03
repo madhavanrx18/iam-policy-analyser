@@ -98,4 +98,5 @@ python iam_analyzer.py --role AuditRole --json --export results.json
 > Minimal dependencies keep the tool lightweight and easy to deploy.
 
 
-
+## Contribution
+- Kudos to you on reading the documentation, if you have any idea that would be apt for our project lets connect.
